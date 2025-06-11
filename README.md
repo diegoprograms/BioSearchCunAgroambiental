@@ -14,7 +14,7 @@ Muestra un botón que, al hacer clic, imprime un mensaje simple. Es la base para
 2. Ejecuta las celdas.
 3. Haz clic en el botón para ver la respuesta.
 
-[![Abrir con Voilá](https://voila.readthedocs.io/en/stable/_static/binder-badge.svg)](https://mybinder.org/v2/gh/diegoprograms/ensayo/HEAD?urlpath=voila%2Frender%2FBioSearchCA_demo.ipynb)
+[![Abrir con Voilá](https://voila.readthedocs.io/en/stable/_static/binder-badge.svg)](https://mybinder.org/v2/gh/diegoprograms/ensayo/HEAD?urlpath=voila/render/BioSearchCA_demo.ipynb)
 
 
 [![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegoprograms/ensayo/HEAD?filepath=BioSearchCA_demo.ipynb)
