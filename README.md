@@ -1,6 +1,7 @@
-# BioSearchCA
+# BioSearchCundinAgroambiental
 
-Este es un ejemplo básico del proyecto **BioSearchCA**, un software desarrollado para la interacción mediante widgets en Python.
+
+Este es un ejemplo básico del proyecto **BioSearchCundinAgroambiental**, un software desarrollado para la interacción mediante widgets en Python.
 
 
 
