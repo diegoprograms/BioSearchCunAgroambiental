@@ -1,7 +1,7 @@
-# BioSearchCundinAgroambiental
+# BioSearchCundiAgroambiental
 
 
-Este es un ejemplo básico del proyecto **BioSearchCundinAgroambiental**, un software desarrollado para la interacción mediante widgets en Python.
+Este es un ejemplo básico del proyecto **BioSearchCundiAgroambiental**, un software desarrollado para la interacción mediante widgets en Python.
 
 
 
