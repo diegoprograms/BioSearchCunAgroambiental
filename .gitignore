@@ -192,3 +192,41 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# Ocultar archivos de datos
+*.csv
+*.xml
+*.xlsx
+*.json
+*.tsv
+
+# Ocultar notebooks intermedios o de prueba (si los necesitas localmente)
+*_test.ipynb
+*_temp.ipynb
+
+# Ocultar carpetas comunes con datos
+/data/
+/datos/
+/outputs/
+/results/
+/archivos/
+
+# Ocultar cachés o archivos de Jupyter y Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Ocultar configuraciones de entorno
+.env
+.venv/
+.envrc
+*.env
+
+# Ignorar todos los notebooks .ipynb...
+*.ipynb
+
+# ...excepto el principal para Voilà
+!BioSearchCA_demo.ipynb
