@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+#__pycache__/
 *.py[cod]
-*$py.class
+#*$py.class
 
 # C extensions
 *.so
@@ -213,11 +213,11 @@ cython_debug/
 /archivos/
 
 # Ocultar cachés o archivos de Jupyter y Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.ipynb_checkpoints/
+#__pycache__/
+#*.pyc
+#*.pyo
+#*.pyd
+#.ipynb_checkpoints/
 
 # Ocultar configuraciones de entorno
 .env
